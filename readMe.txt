@@ -1,0 +1,1 @@
+A To-do list project i did with a template that i found online. I did not do the html/css part but i wrote the javascript part.
